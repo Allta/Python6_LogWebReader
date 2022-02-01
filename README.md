@@ -29,4 +29,5 @@ Ce programme vous a été demandé par un chef d'équipe qui souhaite exporter l
 
 ## Exercice BONUS : 
 
-- Packager cette application dans une image docker
+- Packager cette application dans une image docker 
+- Vous pouvez utiliser un environnement virtuel comme Poetry pour gérer les librairies et livrer une application entière (Code, librairie, dépendances etc..)
