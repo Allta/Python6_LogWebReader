@@ -1,0 +1,22 @@
+<!doctype html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+    <div>
+    </div>
+</body>
+
+<pre id="output"></pre>
+<script>
+    var output = document.getElementById('output');
+
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', '{{ url_for('tail') }}');
+    xhr.send();
+
+    setInterval(function() {
+        output.textContent = xhr.responseText;
+    }, 1000);
+</script>
+
