@@ -30,7 +30,7 @@ Ce programme vous a été demandé par un chef d'équipe qui souhaite exporter l
 
 
 
-###  BONUS_BONUSD : 
+###  BONUS_BONUS : 
 - Permettre de faire faire un `tail -f -n X` sur le fichier. C'est à dire de choisir d'ignorer les X premières lignes
 - Packager cette application dans une image docker 
 - Vous pouvez utiliser un environnement virtuel comme Poetry pour gérer les librairies et livrer une application entière (Code, librairie, dépendances etc..)
