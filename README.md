@@ -18,7 +18,7 @@ Ce programme vous a été demandé par un chef d'équipe qui souhaite exporter l
 
  Il faudra donc réaliser un programme : 
 - Qui va ouvrir un fichier log prédéfini
-- Lire ce fichier et afficher les logs en temps réel
+- Lire ce fichier et afficher le contenu sur le terminal
 - Exporter cet affichage sur un site internet développé en Python
   - Pour cela vous utiliserez le module `Flask` -- Tout le code inhérent a flask est présent dans les sources de ce repo.
   - Pour lancer votre application flask il faut : 
