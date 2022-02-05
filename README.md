@@ -1,4 +1,4 @@
-# TP Guess The Number - Ynov Python B1
+# TP File - Ynov Python B1
 
 :see_no_evil: _**Il s'agit d'un travail autonomne.**_ :speak_no_evil:
 
@@ -10,7 +10,16 @@
  
  ## Exercice 1 : 
  
- ## Exercice BONUS : Log Web Reader
+ - Lire le fichier `squid.log` et afficher ses lignes.
+
+## Exerice 2 : 
+ - Créer une fonction qui lit le fichier `squid.log` et qui affiche toutes les lignes sauf celles possédant le mot `Warning`.
+
+## Exercice 3 : 
+ - Créer une fonction qui va print les X dernières lignes d'un fichier. 
+   - Pensez aux index des listes (0,1,2,3,...,n) et (-1,-2,...,-n)
+
+## Exercice BONUS : Log Web Reader
  
 Le but de ce projet est de faire un pas dans la programmation orienté Infra.
 Les logs sont pour un administrateur systeme un outils très important dans la compréhension et le debugging d'une situation de crise. 
