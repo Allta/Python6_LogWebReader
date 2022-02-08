@@ -18,6 +18,8 @@ def tail():
 		# Dans cette fonction il faut réussir à trouver le nombre de ligne du fichier et retourner ce nombre
 	# def generate_logs()	
 		# Fonction qui lit un fichier en temps réel: ouvrir le fichier, boucler en permanence sur les lignes et les afficher.
+		# Utilisez yield plutot que return
+		
 	# return flask reponse with generate_logs
 	#return app.response_class(generate_logs(), mimetype='text/plain')
 
