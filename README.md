@@ -38,7 +38,7 @@ Ce programme vous a été demandé par un chef d'équipe qui souhaite exporter l
     - lancer la commande `flask run` 
 
 Pour rajouter des lignes au fichier vous pouvez utiliser la commande : 
-`bash for i in $(seq 1 1000);do echo $i >> app.log;sleep 0.5;done`
+```bash for i in $(seq 1 1000);do echo $i >> app.log;sleep 0.5;done```
 ###  BONUS_BONUS : 
 - Permettre de faire faire un `tail -f -n X` sur le fichier. C'est à dire de choisir d'ignorer les X premières lignes
 - Packager cette application dans une image docker 
