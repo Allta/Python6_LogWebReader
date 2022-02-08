@@ -18,6 +18,7 @@
 ## Exercice 3 : 
  - Créer une fonction qui va print les X dernières lignes d'un fichier. 
    - Pensez aux index des listes (0,1,2,3,...,n) et (-1,-2,...,-n)
+   - X doit est fournit en argument de la commande 
 
 ## Exercice BONUS : Log Web Reader
  
