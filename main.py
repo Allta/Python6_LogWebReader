@@ -1,8 +1,11 @@
 #from flask import Flask, render_template
 from time import sleep
 
+# Utile pour l'export sur site internet
 #app = Flask(__name__)
 
+# Utile pour l'export sur site internet
+""" il s'agit de la syntaxe pour créer une page sur le site flask """
 #@app.route('/')
 def index():
 	return render_template('index.html.jinja')
